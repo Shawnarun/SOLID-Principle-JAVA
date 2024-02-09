@@ -16,6 +16,10 @@ public class Discount {
                discount=10.0;
               break;
 
+            case "New Students":
+              discount=50.0;
+             break;
+             
             default:
                 break;
         }
